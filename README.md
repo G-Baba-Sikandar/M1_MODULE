@@ -1,1 +1,1 @@
-# m1_project
+# M1_MODULE
